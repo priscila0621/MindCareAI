@@ -5,6 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.navigation.compose.*
 import ni.edu.uam.mindcareai.screens.HistorialScreen
+import ni.edu.uam.mindcareai.screens.PerfilScreen
 import ni.edu.uam.mindcareai.screens.RegistroScreen
 import ni.edu.uam.mindcareai.ui.*
 
