@@ -9,6 +9,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import ni.edu.uam.mindcareai.data.ThoughtRepository
+import ni.edu.uam.mindcareai.model.Thought
 
 @Composable
 fun HistorialScreen(navController: NavController) {
